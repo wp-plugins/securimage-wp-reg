@@ -6,6 +6,8 @@ Description: Adds CAPTCHA protection from Securimage-WP plugin to user register 
 Author: Jehy
 Version: 0.02
 Author URI: http://jehy.ru/articles/web/
+Min WP Version: 2.5
+Max WP Version: 4.0
 */
 
 /*  Copyright (C) 2013 Jehy
