@@ -4,22 +4,20 @@ Author URI: http://jehy.ru/articles/web/
 Tags: CAPTCHA, spam protection,register
 Requires at least: 3.0
 Tested up to: 4.0
-Stable tag: 0.02
+Stable tag: 0.03
 
 Securimage-WP-REG adds captcha ptotection from Securimage-WP plugin on register pages.
 
 
 == Description ==
 
-[Securimage-WP](https://www.phpcaptcha.org/download/wordpress-plugin/) utilizes the powerful CAPTCHA protection of [Securimage Captcha](http://phpcaptcha.org/ "Securimage PHP CAPTCHA") to add protection to your WordPress comment forms.    
+[Securimage-WP](https://www.phpcaptcha.org/download/wordpress-plugin/) utilizes the powerful CAPTCHA protection of [Securimage Captcha](http://phpcaptcha.org/ "Securimage PHP CAPTCHA") which adds protection to your WordPress comment forms. Unfortunately, it didn't have option to be installed on user register page. Now you can just install Securimage-WP-REG, enable it - and you will have CAPTCHA on register page!    
 
-Unfortunately, it didn't have option to be installed on user register page. Now you can just install Securimage-WP-REG, enable it - and you will have CAPTCHA on register page!    
-
-Securimage-WP-REG adds captcha on register pages and fixes one little bug of Securimage-WP. I hope it will be fixed in future and I added option for it.
+So, Securimage-WP-REG adds captcha on register pages.
 
 Requirements:
 
-* [Securimage-WP](https://www.phpcaptcha.org/download/wordpress-plugin/) plugin installed and working. Ealier this plugin was available [here on plugins repository](http://wordpress.org/plugins/securimage-wp/) but something in wordpress plugin repository seems to be broken.
+* [Securimage-WP-Fixed](http://wordpress.org/plugins/securimage-wp-fixed/) plugin installed and working. Ealier this plugin was available [here on plugins repository](http://wordpress.org/plugins/securimage-wp/) but something in wordpress plugin repository seems to be broken. If you need old version of this plugin, you can find int on [author page](https://www.phpcaptcha.org/download/wordpress-plugin/).
 
 
 == Installation ==
@@ -33,13 +31,17 @@ Installation of Securimage-WP-REG is simple.
 
 = What are the requirements? =
 
-[Securimage-WP](http://wordpress.org/plugins/securimage-wp/) plugin needs to be installed and working.
+[Securimage-WP-Fixed](http://wordpress.org/plugins/securimage-wp-fixed/) plugin needs to be installed and working.
 
 == Screenshots ==
 
 1. Securimage-WP shown on a register form
 
 == Changelog ==
+
+= 0.03 =
+* Removed HTML fix for securimage-wp plugin because it is now included in securimage-wp-fixed plugin. Please, remove your old plugin and install new if your page is broken.
+* Added check for dependent plugin.
 
 = 0.02 =
 * Little fixes, release on wordpress.org
