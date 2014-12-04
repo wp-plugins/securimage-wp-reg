@@ -11,13 +11,13 @@ Securimage-WP-REG adds captcha ptotection from Securimage-WP plugin on register 
 
 == Description ==
 
-[Securimage-WP](https://www.phpcaptcha.org/download/wordpress-plugin/) utilizes the powerful CAPTCHA protection of [Securimage Captcha](http://phpcaptcha.org/ "Securimage PHP CAPTCHA") which adds protection to your WordPress comment forms. Unfortunately, it didn't have option to be installed on user register page. Now you can just install Securimage-WP-REG, enable it - and you will have CAPTCHA on register page!    
+[Securimage-WP-Fixed](http://wordpress.org/plugins/securimage-wp-fixed/) utilizes the powerful CAPTCHA protection of [Securimage Captcha](http://phpcaptcha.org/ "Securimage PHP CAPTCHA") which adds protection to your WordPress comment forms. Unfortunately, it didn't have option to be installed on user register page. Now you can just install Securimage-WP-REG, enable it - and you will have CAPTCHA on register page!    
 
 So, Securimage-WP-REG adds captcha on register pages.
 
 Requirements:
 
-* [Securimage-WP-Fixed](http://wordpress.org/plugins/securimage-wp-fixed/) plugin installed and working. Ealier this plugin was available [here on plugins repository](http://wordpress.org/plugins/securimage-wp/) but something in wordpress plugin repository seems to be broken. If you need old version of this plugin, you can find int on [author page](https://www.phpcaptcha.org/download/wordpress-plugin/).
+* [Securimage-WP-Fixed](http://wordpress.org/plugins/securimage-wp-fixed/) plugin installed and working. Old version of this plugin you can find [here](https://www.phpcaptcha.org/download/wordpress-plugin/).
 
 
 == Installation ==
