@@ -3,8 +3,8 @@ Contributors: Jehy
 Author URI: http://jehy.ru/articles/web/
 Tags: CAPTCHA, spam protection,register
 Requires at least: 3.0
-Tested up to: 4.0
-Stable tag: 0.03
+Tested up to: 4.1
+Stable tag: 0.04
 
 Securimage-WP-REG adds captcha ptotection from Securimage-WP plugin on register pages.
 
@@ -38,6 +38,9 @@ Installation of Securimage-WP-REG is simple.
 1. Securimage-WP shown on a register form
 
 == Changelog ==
+
+= 0.04 =
+* Fixed dependency tracking, refactoring.
 
 = 0.03 =
 * Removed HTML fix for securimage-wp plugin because it is now included in securimage-wp-fixed plugin. Please, remove your old plugin and install new if your page is broken.
