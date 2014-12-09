@@ -20,6 +20,9 @@ Requirements:
 * [Securimage-WP-Fixed](http://wordpress.org/plugins/securimage-wp-fixed/) plugin installed and working. Old version of this plugin you can find [here](https://www.phpcaptcha.org/download/wordpress-plugin/).
 
 
+####Donate or help?
+If you want to ensure the future development and support of this plugin, you can make donation [on this page](http://jehy.ru/articles/donate/) or just write about this plugin in your blog.
+
 == Installation ==
 
 Installation of Securimage-WP-REG is simple.
