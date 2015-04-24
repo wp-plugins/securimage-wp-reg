@@ -3,7 +3,7 @@ Contributors: Jehy
 Author URI: http://jehy.ru/articles/web/
 Tags: CAPTCHA, spam protection,register
 Requires at least: 3.0
-Tested up to: 4.1
+Tested up to: 4.2
 Stable tag: 0.04
 
 Securimage-WP-REG adds captcha ptotection from Securimage-WP plugin on register pages.
